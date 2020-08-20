@@ -1,0 +1,6 @@
+When to use if else and when to use exception-->
+
+We should use if else only when we check conditions. 
+If Else should not be used when we have to handle statements we know are crucial and can lead to error. 
+Hence, for handling statements which will lead to error and can cause big problems one should use exception handling andnot if else.
+If else should be used to throw exceptions.
